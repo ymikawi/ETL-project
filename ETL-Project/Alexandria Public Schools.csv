@@ -1,0 +1,62 @@
+,State School ID,NCES District ID,State District ID,Low Grade*,High Grade*,School Name,District,County Name*,Street Address,City,State,ZIP,Phone,Locale*,Charter,Magnet*,Title I School*,Title 1 School Wide*,Students*,Teachers*,Student Teacher Ratio*,Free Lunch*,Reduced Lunch*
+0,VA-029-0292244,5101260,VA-029,†,†,Achievement Integrity And Maturity,FAIRFAX CO PBLC SCHS,Fairfax County,c/o Kathryn Salerno,Alexandria,VA,22306,(703)660-2064,Suburb: Large,No,No,†,†,†,–,†,†,†
+1,VA-029-0292212,5101260,VA-029,†,†,ALC at Bryant,FAIRFAX CO PBLC SCHS,Fairfax County,2709 Popkins Ln,Alexandria,VA,22306,(703)660-2101,Suburb: Large,No,No,†,†,†,–,†,†,†
+2,VA-029-0292246,5101260,VA-029,†,†,ALC at Montrose,FAIRFAX CO PBLC SCHS,Fairfax County,6525 Montrose St,Alexandria,VA,22312,(703)658-5800,Suburb: Large,No,No,†,†,†,–,†,†,†
+3,VA-029-0290560,5101260,VA-029,PK,6,Belle View Elementary,FAIRFAX CO PBLC SCHS,Fairfax County,6701 Fort Hunt Rd,Alexandria,VA,22307,(703)660-8300,Suburb: Large,No,No,No,†,564,37.02,15.2,133,36
+4,VA-029-0290940,5101260,VA-029,PK,5,Bren Mar Park Elementary,FAIRFAX CO PBLC SCHS,Fairfax County,6344 Beryl Rd,Alexandria,VA,22312,(703)914-7200,Suburb: Large,No,No,Yes,Yes,538,41.05,13.1,273,56
+5,VA-029-0292201,5101260,VA-029,7,12,Bryant High,FAIRFAX CO PBLC SCHS,Fairfax County,2709 Popkins Ln,Alexandria,VA,22306,(703)660-2001,Suburb: Large,No,No,No,†,299,34.94,8.6,143,12
+6,VA-029-0290700,5101260,VA-029,PK,6,Bucknell Elementary,FAIRFAX CO PBLC SCHS,Fairfax County,6925 University Dr,Alexandria,VA,22307,(703)660-2900,Suburb: Large,No,No,Yes,Yes,250,26,9.6,129,33
+7,VA-029-0290680,5101260,VA-029,PK,6,Bush Hill Elementary,FAIRFAX CO PBLC SCHS,Fairfax County,5927 Westchester St,Alexandria,VA,22310,(703)924-5600,Suburb: Large,No,No,No,†,480,32.3,14.9,75,33
+8,VA-029-0290620,5101260,VA-029,PK,6,Cameron Elementary,FAIRFAX CO PBLC SCHS,Fairfax County,3434 Campbell Dr,Alexandria,VA,22303,(703)329-2100,Suburb: Large,No,No,Yes,Yes,530,38.4,13.8,239,58
+9,VA-101-1010120,5100120,VA-101,PK,5,Charles Barrett Elementary,ALEXANDRIA CITY PBLC SCHS,Alexandria city,1115 Martha Custis Dr,Alexandria,VA,22302,(703)824-6960,City: Midsize,No,No,No,†,499,35.5,14.1,149,15
+10,VA-029-0291870,5101260,VA-029,PK,6,Clermont Elementary,FAIRFAX CO PBLC SCHS,Fairfax County,5720 Clermont Dr,Alexandria,VA,22310,(703)921-2400,Suburb: Large,No,No,No,†,581,31.7,18.3,68,21
+11,VA-101-1010160,5100120,VA-101,PK,5,Cora Kelly Magnet Elementary,ALEXANDRIA CITY PBLC SCHS,Alexandria city,3600 Commonwealth Ave,Alexandria,VA,22305,(703)706-4420,City: Midsize,No,Yes,Yes,Yes,444,29.3,15.2,349,25
+12,VA-101-1010110,5100120,VA-101,PK,5,Douglas Macarthur Elementary,ALEXANDRIA CITY PBLC SCHS,Alexandria city,1101 Janneys Ln,Alexandria,VA,22302,(703)461-4190,City: Midsize,No,No,No,†,716,39.4,18.2,220,37
+13,VA-029-0291270,5101260,VA-029,9,12,Edison High,FAIRFAX CO PBLC SCHS,Fairfax County,5801 Franconia Rd,Alexandria,VA,22310,(703)924-8000,Suburb: Large,No,No,No,†,2070,140.39,14.7,545,157
+14,VA-029-0292447,5101260,VA-029,†,†,Edison High School Academy,FAIRFAX CO PBLC SCHS,Fairfax County,5801 Franconia Rd,Alexandria,VA,22310,(703)924-8000,Suburb: Large,No,No,†,†,†,–,†,†,†
+15,VA-029-0291920,5101260,VA-029,PK,6,Fort Hunt Elementary,FAIRFAX CO PBLC SCHS,Fairfax County,8832 Linton Ln,Alexandria,VA,22308,(703)619-2600,Suburb: Large,No,Yes,No,†,596,42.2,14.1,165,34
+16,VA-101-1010140,5100120,VA-101,6,8,Francis C. Hammond Middle,ALEXANDRIA CITY PBLC SCHS,Alexandria city,4646 Seminary Road,Alexandria,VA,22304,(703)461-4100,City: Midsize,No,No,Yes,Yes,1415,133.25,10.6,–,–
+17,VA-029-0290320,5101260,VA-029,PK,6,Franconia Elementary,FAIRFAX CO PBLC SCHS,Fairfax County,6301 Beulah St,Alexandria,VA,22310,(703)822-2200,Suburb: Large,No,No,No,†,522,31.5,16.6,87,28
+18,VA-101-1010100,5100120,VA-101,PK,5,George Mason Elementary,ALEXANDRIA CITY PBLC SCHS,Alexandria city,2601 Cameron Mills Rd,Alexandria,VA,22302,(703)706-4470,City: Midsize,No,No,No,†,577,32.5,17.8,149,17
+19,VA-101-1010130,5100120,VA-101,6,8,George Washington Middle,ALEXANDRIA CITY PBLC SCHS,Alexandria city,1005 Mount Vernon Avenue,Alexandria,VA,22301,(703)706-4500,City: Midsize,No,No,No,†,1340,106.57,12.6,–,–
+20,VA-029-0291170,5101260,VA-029,6,8,Glasgow Middle,FAIRFAX CO PBLC SCHS,Fairfax County,4101 Fairfax Pkwy,Alexandria,VA,22312,(703)813-8700,Suburb: Large,No,Yes,No,†,1749,147.76,11.8,847,197
+21,VA-029-0290330,5101260,VA-029,PK,6,Groveton Elementary,FAIRFAX CO PBLC SCHS,Fairfax County,6900 Harrison Ln,Alexandria,VA,22306,(703)718-8000,Suburb: Large,No,Yes,Yes,Yes,813,47.3,17.2,458,69
+22,VA-029-0291740,5101260,VA-029,PK,6,Hayfield Elementary,FAIRFAX CO PBLC SCHS,Fairfax County,7633 Telegraph Rd,Alexandria,VA,22315,(703)924-4500,Suburb: Large,No,No,No,†,766,37.47,20.4,64,28
+23,VA-029-0291800,5101260,VA-029,7,12,Hayfield Secondary,FAIRFAX CO PBLC SCHS,Fairfax County,7630 Telegraph Rd,Alexandria,VA,22315,(703)924-7400,Suburb: Large,No,Yes,No,†,2906,189.05,15.4,597,217
+24,VA-029-0291330,5101260,VA-029,PK,6,Hollin Meadows Elementary,FAIRFAX CO PBLC SCHS,Fairfax County,2310 Nordok Place,Alexandria,VA,22306,(703)718-8300,Suburb: Large,No,No,Yes,Yes,630,46.57,13.5,270,54
+25,VA-029-0291521,5101260,VA-029,6,8,Holmes Middle,FAIRFAX CO PBLC SCHS,Fairfax County,6525 Montrose St,Alexandria,VA,22312,(703)658-5900,Suburb: Large,No,No,No,†,998,80.17,12.4,390,135
+26,VA-029-0291420,5101260,VA-029,PK,6,Hybla Valley Elementary,FAIRFAX CO PBLC SCHS,Fairfax County,3415 Lockheed Blvd,Alexandria,VA,22306,(703)718-7000,Suburb: Large,No,No,Yes,Yes,963,75.5,12.8,692,136
+27,VA-029-0292235,5101260,VA-029,PK,6,Island Creek Elementary,FAIRFAX CO PBLC SCHS,Fairfax County,7855 Morning View Ln.,Alexandria,VA,22315,(571)642-6300,Suburb: Large,No,No,No,†,801,52,15.4,47,25
+28,VA-101-1010220,5100120,VA-101,PK,5,James K. Polk Elementary,ALEXANDRIA CITY PBLC SCHS,Alexandria city,5000 Polk Ave,Alexandria,VA,22304,(703)461-4180,City: Midsize,No,No,No,†,791,46.5,17,435,103
+29,VA-101-1010090,5100120,VA-101,PK,8,Jefferson-Houston Elementary,ALEXANDRIA CITY PBLC SCHS,Alexandria city,1501 Cameron St,Alexandria,VA,22314,(703)706-4400,City: Midsize,No,No,Yes,Yes,563,44.5,12.7,361,40
+30,VA-101-1010230,5100120,VA-101,PK,5,John Adams Elementary,ALEXANDRIA CITY PBLC SCHS,Alexandria city,5651 Rayburn Ave,Alexandria,VA,22311,(703)824-6970,City: Midsize,No,Yes,Yes,Yes,1016,66,15.4,583,122
+31,VA-029-0292209,5101260,VA-029,PK,6,Lane Elementary,FAIRFAX CO PBLC SCHS,Fairfax County,7137 Beulah St,Alexandria,VA,22315,(703)924-7700,Suburb: Large,No,No,No,†,829,55.1,15,97,41
+32,VA-101-1010080,5100120,VA-101,PK,5,Lyles-Crouch Elementary,ALEXANDRIA CITY PBLC SCHS,Alexandria city,530 S St Asaph St,Alexandria,VA,22314,(703)706-4430,City: Midsize,No,Yes,No,†,438,29,15.1,84,13
+33,VA-101-1010060,5100120,VA-101,PK,5,Maury Elementary,ALEXANDRIA CITY PBLC SCHS,Alexandria city,600 Russell Rd,Alexandria,VA,22301,(703)706-4440,City: Midsize,No,No,No,†,420,24.5,17.1,119,12
+34,VA-029-0290510,5101260,VA-029,PK,6,Mount Eagle Elementary,FAIRFAX CO PBLC SCHS,Fairfax County,6116 N Kings Hwy,Alexandria,VA,22303,(703)721-2100,Suburb: Large,No,No,Yes,Yes,434,34.4,12.6,269,28
+35,VA-101-1010030,5100120,VA-101,PK,5,Mount Vernon Elementary,ALEXANDRIA CITY PBLC SCHS,Alexandria city,2601 Commonwealth Ave,Alexandria,VA,22305,(703)706-4460,City: Midsize,No,Yes,No,†,900,50,18,449,45
+36,VA-029-0290420,5101260,VA-029,9,12,Mount Vernon High,FAIRFAX CO PBLC SCHS,Fairfax County,8515 Old Mount Vernon Rd,Alexandria,VA,22309,(703)619-3100,Suburb: Large,No,No,No,†,2050,156.83,13.1,792,223
+37,VA-029-0291640,5101260,VA-029,PK,6,Mount Vernon Woods Elementary,FAIRFAX CO PBLC SCHS,Fairfax County,4015 Fielding St,Alexandria,VA,22309,(703)619-2800,Suburb: Large,No,No,Yes,Yes,694,53,13.1,449,84
+38,VA-901-9010001,5100042,VA-901,†,†,Northern Virginia Juvenile Detention Home,DOE SOP EDUC PROGRAMS,Alexandria city,200 S. Whiting St.,Alexandria,VA,22304,(703)751-3700,City: Midsize,No,No,†,†,†,–,†,†,†
+39,VA-029-0291030,5101260,VA-029,PK,5,Parklawn Elementary,FAIRFAX CO PBLC SCHS,Fairfax County,4116 Braddock Rd,Alexandria,VA,22312,(703)914-6900,Suburb: Large,No,No,Yes,Yes,718,50.5,14.2,371,77
+40,VA-101-1010050,5100120,VA-101,PK,6,Patrick Henry Elementary,ALEXANDRIA CITY PBLC SCHS,Alexandria city,4643 Taney Ave,Alexandria,VA,22304,(703)461-4170,City: Midsize,No,No,Yes,Yes,670,41.4,16.2,410,102
+41,VA-029-0290901,5101260,VA-029,†,†,Pulley Career Center,FAIRFAX CO PBLC SCHS,Fairfax County,6500 Quander Rd,Alexandria,VA,22307,(703)718-2700,Suburb: Large,No,No,†,†,†,–,†,†,†
+42,VA-029-0291750,5101260,VA-029,†,†,Quander Road School,FAIRFAX CO PBLC SCHS,Fairfax County,6400 Quander Rd,Alexandria,VA,22307,(703)718-2400,Suburb: Large,No,No,†,†,†,–,†,†,†
+43,VA-029-0291820,5101260,VA-029,PK,6,Riverside Elementary,FAIRFAX CO PBLC SCHS,Fairfax County,8410 Old Mount Vernon Rd,Alexandria,VA,22309,(703)799-6000,Suburb: Large,No,No,Yes,Yes,823,62.5,13.2,439,89
+44,VA-029-0290950,5101260,VA-029,PK,6,Rose Hill Elementary,FAIRFAX CO PBLC SCHS,Fairfax County,6301 Rose Hill Dr,Alexandria,VA,22310,(703)313-4200,Suburb: Large,No,Yes,Yes,Yes,739,47.5,15.6,242,60
+45,VA-101-1010333,5100120,VA-101,PK,5,Samuel W. Tucker Elementary,ALEXANDRIA CITY PBLC SCHS,Alexandria city,435 Ferdinand Day Dr,Alexandria,VA,22304,(703)933-6300,City: Midsize,No,No,No,†,807,53.5,15.1,354,94
+46,VA-029-0291300,5101260,VA-029,7,8,Sandburg Middle,FAIRFAX CO PBLC SCHS,Fairfax County,8428 Fort Hunt Rd,Alexandria,VA,22308,(703)799-6100,Suburb: Large,No,Yes,No,†,1424,96.27,14.8,475,104
+47,VA-029-0291350,5101260,VA-029,PK,6,Stratford Landing Elementary,FAIRFAX CO PBLC SCHS,Fairfax County,8484 Riverside Rd,Alexandria,VA,22308,(703)619-3600,Suburb: Large,No,No,No,†,823,48.71,16.9,137,26
+48,VA-101-1010210,5100120,VA-101,9,12,T.C. Williams High,ALEXANDRIA CITY PBLC SCHS,Alexandria city,3330 King St,Alexandria,VA,22302,(703)824-6800,City: Midsize,No,No,No,†,3783,308.35,12.3,1434,307
+49,VA-029-0291371,5101260,VA-029,9,12,Thomas Jefferson High for Science and Technology,FAIRFAX CO PBLC SCHS,Fairfax County,6560 Braddock Rd,Alexandria,VA,22312,(703)750-8300,Suburb: Large,No,Yes,No,†,1789,105.6,16.9,22,10
+50,VA-029-0291160,5101260,VA-029,7,8,Twain Middle,FAIRFAX CO PBLC SCHS,Fairfax County,4700 Franconia Rd,Alexandria,VA,22310,(703)313-3700,Suburb: Large,No,Yes,No,†,985,80.3,12.3,222,83
+51,VA-029-0292252,5101260,VA-029,PK,PK,Virginia Hills E.C. Resource Ctr.,FAIRFAX CO PBLC SCHS,Fairfax County,6520 Diana Ln,Alexandria,VA,22310,(703)317-1400,Suburb: Large,No,No,No,†,237,33.17,7.1,–,–
+52,VA-029-0291320,5101260,VA-029,PK,6,Washington Mill Elementary,FAIRFAX CO PBLC SCHS,Fairfax County,9100 Cherrytree Dr,Alexandria,VA,22309,(703)619-2500,Suburb: Large,No,Yes,Yes,Yes,595,38.01,15.7,227,60
+53,VA-029-0291080,5101260,VA-029,PK,6,Waynewood Elementary,FAIRFAX CO PBLC SCHS,Fairfax County,1205 Waynewood Blvd,Alexandria,VA,22308,(703)704-7100,Suburb: Large,No,No,No,†,790,43.74,18.1,11,3
+54,VA-029-0290900,5101260,VA-029,9,12,West Potomac High,FAIRFAX CO PBLC SCHS,Fairfax County,6500 Quander Rd,Alexandria,VA,22307,(703)718-2500,Suburb: Large,No,No,No,†,2646,172.56,15.3,816,178
+55,VA-029-0292455,5101260,VA-029,†,†,West Potomac High School Academy,FAIRFAX CO PBLC SCHS,Fairfax County,6500 Quander Rd,Alexandria,VA,22307,(703)718-2500,Suburb: Large,No,No,†,†,†,–,†,†,†
+56,VA-029-0290520,5101260,VA-029,PK,5,Weyanoke Elementary,FAIRFAX CO PBLC SCHS,Fairfax County,6520 Braddock Rd,Alexandria,VA,22312,(703)813-5400,Suburb: Large,No,No,Yes,Yes,566,40.5,14,361,66
+57,VA-029-0291550,5101260,VA-029,7,8,Whitman Middle,FAIRFAX CO PBLC SCHS,Fairfax County,2500 Parkers Ln,Alexandria,VA,22306,(703)660-2400,Suburb: Large,No,No,No,†,975,80.55,12.1,369,134
+58,VA-101-1010190,5100120,VA-101,PK,5,William Ramsay Elementary,ALEXANDRIA CITY PBLC SCHS,Alexandria city,5700 Sanger Ave,Alexandria,VA,22311,(703)824-6950,City: Midsize,No,No,Yes,Yes,922,48.5,19,694,102
+59,VA-029-0290380,5101260,VA-029,PK,6,Woodlawn Elementary,FAIRFAX CO PBLC SCHS,Fairfax County,8505 Highland Ln,Alexandria,VA,22309,(703)619-4800,Suburb: Large,No,No,Yes,Yes,583,46.42,12.6,306,80
+60,VA-029-0290590,5101260,VA-029,PK,6,Woodley Hills Elementary,FAIRFAX CO PBLC SCHS,Fairfax County,8718 Old Mt Vernon Rd,Alexandria,VA,22309,(703)799-2000,Suburb: Large,No,No,Yes,Yes,634,50.5,12.6,359,55
